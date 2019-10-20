@@ -1,5 +1,5 @@
 /*
-    ATTENTION: This code designed for Linux, may not works correctly in Windows.
+    ATTENTION: This code designed for Linux, may not work correctly in Windows.
 */
 
 /*
